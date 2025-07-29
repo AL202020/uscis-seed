@@ -324,22 +324,6 @@ questions = [
     ],
     correct_answers: ["All people of the state"]
   },
- %Question{
-    question_text: "Why do some states have more Representatives than other states?",
-    choices: [
-      "Because of the state’s population",
-      "Because they have more people",
-      "Because some states have higher populations",
-      "Because some states are larger",
-      "Because some states are older",
-      "Because some states pay more taxes"
-    ],
-    correct_answers: [
-      "Because of the state’s population",
-      "Because they have more people",
-      "Because some states have higher populations"
-    ]
-  },
   %Question{
     question_text: "We elect a President for how many years?",
     choices: [
