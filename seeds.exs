@@ -907,7 +907,7 @@ questions = [
       "Benjamin Franklin",
       "George Washington"
     ],
-    correct_answers: ["James Madison", "Alexander Hamilton", "John Jay"]
+    correct_answers: ["James Madison", "Alexander Hamilton", "John Jay"],
   },
   %Question{
     question_text: "What is one thing Benjamin Franklin is famous for?",
@@ -925,6 +925,7 @@ questions = [
       "First Postmaster General of the United States",
       "Writer of Poor Richard’s Almanac"
     ],
+  },
   %Question{
     question_text: "Name one war fought by the United States in the 1900s.",
     choices: [
