@@ -2,7 +2,6 @@ alias UscisQuiz.Repo
 alias UscisQuiz.Quiz.Question
 
 questions = [ 
-
   %Question{
     question_text: "What is the supreme law of the land?",
     choices: [
