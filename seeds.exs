@@ -610,7 +610,7 @@ questions = [
       "John Boehner"
     ],
     correct_answers: ["Answers will vary"]
-  }
+  },
   %Question{
     question_text: "There are four amendments to the Constitution about who can vote. Describe one of them.",
     choices: [
