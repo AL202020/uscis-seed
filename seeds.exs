@@ -612,23 +612,6 @@ questions = [
     correct_answers: ["Answers will vary"]
   },
   %Question{
-    question_text: "There are four amendments to the Constitution about who can vote. Describe one of them.",
-    choices: [
-      "Citizens eighteen and older can vote",
-      "You don’t have to pay to vote",
-      "Any citizen can vote (man or woman)",
-      "A male citizen of any race can vote",
-      "Only property owners can vote",
-      "Citizens over 21 must vote"
-    ],
-    correct_answers: [
-      "Citizens eighteen and older can vote",
-      "You don’t have to pay to vote",
-      "Any citizen can vote (man or woman)",
-      "A male citizen of any race can vote"
-    ]
-  },
-  %Question{
     question_text: "What is one responsibility that is only for United States citizens?",
     choices: [
       "Serve on a jury",
