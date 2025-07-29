@@ -1,8 +1,7 @@
 alias UscisQuiz.Repo
 alias UscisQuiz.Quiz.Question
 
-questions = [
- 
+questions = [ 
   %Question{
     question_text: "What is the supreme law of the land?",
     choices: [
@@ -1238,8 +1237,5 @@ questions = [
       "Thanksgiving"
     ]
   }
-
-
-
 ]
 Enum.each(questions, fn q -> Repo.insert!(q) end)
