@@ -1222,6 +1222,6 @@ questions = [
       "Labor Day",
       "Thanksgiving"
     ]
-  },
+  }
 ]
 Enum.each(questions, fn q -> Repo.insert!(q) end)
