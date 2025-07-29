@@ -323,7 +323,7 @@ questions = [
       "All members of Congress"
     ],
     correct_answers: ["All people of the state"]
-  }
+  },
   %Question{
     question_text: "Why do some states have more Representatives than other states?",
     choices: [
